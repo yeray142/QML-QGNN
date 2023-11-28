@@ -1,5 +1,5 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adriend1102/QML)
-![GitHub](https://img.shields.io/github/license/adriend1102/QML)
+![GitHub contributors](https://img.shields.io/github/contributors/yeray142/QML-QGNN)
+![GitHub](https://img.shields.io/github/license/yeray142/QML-QGNN)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?logo=Qiskit&logoColor=white)
 
 <h3 align="center">Quantum Graph Neural Netork for solving TSP</h3>
