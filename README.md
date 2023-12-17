@@ -24,14 +24,16 @@
 
 ## Introduction
 
-This repository contains the code and documentation for the Bachelor's Degree Final Project (Catalan: *Treball de Final de Grau*; TFG) in Computer Engineering at the Autonomous University of Barcelona (Official name in Catalan: *Universitat Autònoma de Barcelona*; UAB) titled *Quantum Graph Neural Network for solving TSP*. This project explores the exciting intersection of quantum computing and machine learning to tackle the so called Travelling Salesperson Problem (TSP).
+This repository contains the code and documentation for the Bachelor's Degree Final Project (Catalan: *Treball de Final de Grau*; TFG) in Computer Engineering at Universitat Autònoma de Barcelona (UAB) titled *Quantum Graph Neural Network for solving TSP*. This project explores the exciting intersection of quantum computing and machine learning to tackle the so called Travelling Salesperson Problem (TSP).
 
 ## Prerequisites
+> [!WARNING]
+> If you are using a Python version lower than 3.9, you are required to import the specific definitions from the typing module for the composite type hints.
 
 Before you can run the code in this repository, you will need the following prerequisites:
 
 - Basic understanding of quantum computing and machine learning.
-- Python 3.8 or higher (lower versions may also work well, but we will not support them).
+- Python 3.11 or higher (lower versions may also work well, but we will not support them).
 - Access to a quantum computing platform or simulator (e.g., IBM Qiskit, Google Cirq).
 - Required Python libraries, which can be installed using `pip`:
 ```
@@ -67,7 +69,7 @@ cd <directory_where_the_cloned_repository_is_located>
 ```
 3. Open the Jupyter notebooks in the `notebooks/` directory to explore the experiments and results.
 
-4. Use the code and models in the `models/` directory for your image classification tasks.
+4. Use the code and models in the `models/` directory for solving your TSP instances.
 
 ## License
 
