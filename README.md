@@ -44,16 +44,15 @@ pip install -r requirements.txt
 
 The project is organized as follows:
 
-- `data/`: This directory contains the image datasets used for training and testing.
+- `data/`: This directory contains the image datasets used for training and testing during initial testing phases.
 - `docs/`: Project documentation and presentation files.
 - `imgs/`: Project images and plots.
-- `models/`: Implementations of quantum models.
 - `notebooks/`: Jupyter notebooks demonstrating the experiments and results.
 - `utils/`: Utility functions and helper scripts.
 - `.gitignore`: Github .gitignore file to get rid of annoying files.
 - `LICENSE.txt`: The project's license file.
-- `requirements.txt`: The Python requirements text file.
 - `README.md`: This documentation file.
+- `requirements.txt`: The Python requirements text file.
 
 ## Usage
 
@@ -67,9 +66,7 @@ git clone https://github.com/yeray142/QML-QGNN.git
 ```
 cd <directory_where_the_cloned_repository_is_located>
 ```
-3. Open the Jupyter notebooks in the `notebooks/` directory to explore the experiments and results.
-
-4. Use the code and models in the `models/` directory for solving your TSP instances.
+3. Open the Jupyter notebooks in the `notebooks/` directory to replicate the experiments and results.
 
 ## License
 
