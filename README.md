@@ -76,6 +76,8 @@ The project is organized as follows:
 - `README.md`: This documentation file.
 - `requirements.txt`: The Python requirements text file.
 
+### Tutorial
+For the step-by-step implementation of the code, please refer to [this tutorial](https://github.com/yeray142/QML-QGNN/blob/master/notebooks/q_learning_tutorial.ipynb). The tutorial provides a comprehensive guide with detailed explanations and code samples for easy understanding of the implementation process.
 
 ## Installation
 
